@@ -1,5 +1,5 @@
 # merge-text.py
-very lightweight python script to merge all text file into a single one.
+very lightweight python script to merge all text file (in the current directory) into a single one.
 - process is nondestructive
 - utf-8 by default (you can change it by editing the script "settings" section)
 - add a single 'space' character between the texts
